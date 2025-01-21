@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: the use of uninitialized variables.  The `bug.cob` file contains code that fails to initialize the `WS-FLAG` variable before using it in a conditional statement.  The `bugSolution.cob` file shows the corrected version.
